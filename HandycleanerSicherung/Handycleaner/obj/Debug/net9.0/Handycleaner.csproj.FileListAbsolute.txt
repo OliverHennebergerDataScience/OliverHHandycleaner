@@ -1,0 +1,14 @@
+C:\Programming\Handycleaner\bin\Debug\net9.0\Handycleaner.exe
+C:\Programming\Handycleaner\bin\Debug\net9.0\Handycleaner.deps.json
+C:\Programming\Handycleaner\bin\Debug\net9.0\Handycleaner.runtimeconfig.json
+C:\Programming\Handycleaner\bin\Debug\net9.0\Handycleaner.dll
+C:\Programming\Handycleaner\bin\Debug\net9.0\Handycleaner.pdb
+C:\Programming\Handycleaner\obj\Debug\net9.0\Handycleaner.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programming\Handycleaner\obj\Debug\net9.0\Handycleaner.AssemblyInfoInputs.cache
+C:\Programming\Handycleaner\obj\Debug\net9.0\Handycleaner.AssemblyInfo.cs
+C:\Programming\Handycleaner\obj\Debug\net9.0\Handycleaner.csproj.CoreCompileInputs.cache
+C:\Programming\Handycleaner\obj\Debug\net9.0\Handycleaner.dll
+C:\Programming\Handycleaner\obj\Debug\net9.0\refint\Handycleaner.dll
+C:\Programming\Handycleaner\obj\Debug\net9.0\Handycleaner.pdb
+C:\Programming\Handycleaner\obj\Debug\net9.0\Handycleaner.genruntimeconfig.cache
+C:\Programming\Handycleaner\obj\Debug\net9.0\ref\Handycleaner.dll
